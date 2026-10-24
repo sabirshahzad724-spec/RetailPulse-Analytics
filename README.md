@@ -8,6 +8,20 @@
 💻 **GitHub Repository:** [RetailPulse-Analytics](https://github.com/sabirshahzad724-spec/RetailPulse-Analytics)
 
 ---
+## 🚀 Live Dashboard
+
+**Explore RetailPulse here:** [Open Live Dashboard](https://retailpulse-analytics-gwrnh2ix8ypspr3mvqvnfq.streamlit.app/)
+
+## 📊 Dashboard Preview
+
+![RetailPulse Dashboard](retailpulse-analytics/RetailPulse_Combined_Collage.png)
+
+### Dashboard Screenshots
+
+- [Dashboard 1 — Overview](retailpulse-analytics/RetailPulse_Dashboard_1.png)
+- [Dashboard 2 — Product & Market](retailpulse-analytics/RetailPulse_Dashboard_2.png)
+- [Dashboard 3 — Operations](retailpulse-analytics/RetailPulse_Dashboard_3.png)
+- [Dashboard 4 — Data Quality](retailpulse-analytics/RetailPulse_Dashboard_4.png)
 
 ## 📊 Project Overview
 
